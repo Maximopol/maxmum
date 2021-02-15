@@ -1,0 +1,1 @@
+web: java -jar target/maxmum-0.0.1.war
